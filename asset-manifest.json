@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Anime/static/js/main.fd9307f0.js",
+    "main.js": "/Anime/static/js/main.f9c6d757.js",
     "index.html": "/Anime/index.html",
-    "main.fd9307f0.js.map": "/Anime/static/js/main.fd9307f0.js.map"
+    "main.f9c6d757.js.map": "/Anime/static/js/main.f9c6d757.js.map"
   },
   "entrypoints": [
-    "static/js/main.fd9307f0.js"
+    "static/js/main.f9c6d757.js"
   ]
 }
