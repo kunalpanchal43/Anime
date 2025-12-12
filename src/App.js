@@ -4,9 +4,8 @@ import Gallery from "./Components/Gallery";
 import Homepage from "./Components/Homepage";
 
 function App() {
-  
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Anime">
       <Routes>
         <Route path="/" element={<Homepage />} />
         <Route path="/anime/:id" element={<AnimeItem />} />
@@ -17,4 +16,3 @@ function App() {
 }
 
 export default App;
-
